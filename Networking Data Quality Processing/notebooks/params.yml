@@ -1,0 +1,3 @@
+data_locations:
+  raw_data_location: "/Volumes/hagedata/lumen_network_planning/traffic_landing/"
+  geo_data_location: "/Volumes/hagedata/lumen_network_planning/geodata"
